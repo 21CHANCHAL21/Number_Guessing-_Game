@@ -1,5 +1,5 @@
 # Guess the number game
-
+# import the random library to generate the random number
 import random
 
 number = random.randint(1, 10)
