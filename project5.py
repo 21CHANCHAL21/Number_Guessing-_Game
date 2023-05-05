@@ -3,6 +3,7 @@
 lower_count = upper_count = num_count = wspace_count = special_count = 0
 s = input()
 
+# Check if paasword length is greater than or not
 if (len(s) >= 8):
     for i in s:
         if (i.islower()):
