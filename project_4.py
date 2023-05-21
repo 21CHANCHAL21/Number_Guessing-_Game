@@ -1,5 +1,5 @@
 # Face detection using computer vision.
-
+# Firt import computer vision library
 import cv2
 
 cascade_face = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
